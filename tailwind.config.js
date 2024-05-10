@@ -19,7 +19,7 @@ module.exports = {
         gray2: "#525a76",
       },
       backgroundImage: {
-        'CTABg': "url('/images/CTABg.svg')",
+        'CTABg': "url('/Images/CTABg.svg')",
       }
     },
   },
